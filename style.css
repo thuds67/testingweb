@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+}
+.tribute-page{
+    text-align: center;
+    background-color: #eee;
+    padding: 60px 30px 50px 30px;
+    border-radius: 0.5%;
+    margin: 30px 0px;
+}
+.heading{
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.heading-text{
+    font-size: 17px;
+}
+
+.img-section{
+    background-color: white;
+    margin: 0px;
+}
+
+.img{
+    width: 88%;
+}
+
+.hov:hover{
+       color: aqua;
+}
+
+.img-text{
+    font-size: 17px;
+    line-height: 175%;
+    padding: 15px 0px;
+}
+
+.timeline-heading{
+    padding: 50px 0px;
+}
+
+.timeline{
+    max-width: 600px;
+    margin: 50px auto;
+}
+.timeline-lists{
+     text-align: left;
+     font-size: 16px;
+     line-height: 160%;
+     margin: 20px;
+}
+
+.quote{
+    font-size: 15px;
+    line-height: 160%;
+    max-width: 545px;
+    margin: auto;
+    font-style: italic;
+    text-align: left;
+}
